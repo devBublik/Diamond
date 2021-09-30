@@ -1,9 +1,1 @@
-## Бубликова Евгения
-
-##  Развернуть проект:
-
-$ npm install
-
-## Запустить проект: 
-
-$ gulp
+https://devbublik.github.io/diamond/
